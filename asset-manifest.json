@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gane/static/css/main.9e6dc747.chunk.css",
-    "main.js": "/gane/static/js/main.72df7ff4.chunk.js",
-    "main.js.map": "/gane/static/js/main.72df7ff4.chunk.js.map",
+    "main.css": "/gane/static/css/main.a5046afd.chunk.css",
+    "main.js": "/gane/static/js/main.976586de.chunk.js",
+    "main.js.map": "/gane/static/js/main.976586de.chunk.js.map",
     "runtime-main.js": "/gane/static/js/runtime-main.125a589c.js",
     "runtime-main.js.map": "/gane/static/js/runtime-main.125a589c.js.map",
     "static/css/2.11829350.chunk.css": "/gane/static/css/2.11829350.chunk.css",
     "static/js/2.4f2417f3.chunk.js": "/gane/static/js/2.4f2417f3.chunk.js",
     "static/js/2.4f2417f3.chunk.js.map": "/gane/static/js/2.4f2417f3.chunk.js.map",
     "index.html": "/gane/index.html",
-    "precache-manifest.8df0373b5df17c609efbcaf97f6488bf.js": "/gane/precache-manifest.8df0373b5df17c609efbcaf97f6488bf.js",
+    "precache-manifest.37f6414fb6052fc96b3bb7995c5f736f.js": "/gane/precache-manifest.37f6414fb6052fc96b3bb7995c5f736f.js",
     "service-worker.js": "/gane/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/gane/static/css/2.11829350.chunk.css.map",
-    "static/css/main.9e6dc747.chunk.css.map": "/gane/static/css/main.9e6dc747.chunk.css.map",
+    "static/css/main.a5046afd.chunk.css.map": "/gane/static/css/main.a5046afd.chunk.css.map",
     "static/js/2.4f2417f3.chunk.js.LICENSE.txt": "/gane/static/js/2.4f2417f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.125a589c.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.4f2417f3.chunk.js",
-    "static/css/main.9e6dc747.chunk.css",
-    "static/js/main.72df7ff4.chunk.js"
+    "static/css/main.a5046afd.chunk.css",
+    "static/js/main.976586de.chunk.js"
   ]
 }
