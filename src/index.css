@@ -32,22 +32,6 @@ ol, ul {
   font-size: 20px;
 }
 
-.square {
-  background: #663399;
-  border: 1px solid #99ff33;
-  float: left;
-  color: #fff;
-  font-size: 24px;
-  font-weight: bold;
-  line-height: 34px;
-  height: 150px;
-  margin-right: -1px;
-  margin-top: -1px;
-  padding: 0;
-  text-align: center;
-  width: 150px;
-}
-
 .square:focus {
   outline: none;
 }
@@ -56,13 +40,101 @@ ol, ul {
   background: #ddd;
 }
 
-.game {
-	margin-left:35%;
-	margin-top:10%;
-  display: flex;
-  flex-direction: row;
+/* Small Devices, Tablets */
+@media only screen and (min-width : 320px) 
+{
+	.square 
+	{
+	  background: #663399;
+	  border: 1px solid #99ff33;
+	  float: left;
+	  color: #fff;
+	  font-size: 15px;
+	  font-weight: bold;
+	  line-height: 17px;
+	  height: 60px;
+	  margin-right: -1px;
+	  margin-top: -1px;
+	  padding: 0;
+	  text-align: center;
+	  width: 70px;
+	}
+	.game 
+	{
+		margin-left:15%;
+		margin-top:10%;
+		
+	}
+	.game-board
+	{
+		display: flex;
+		flex-direction: row;
+	}
+}
+@media only screen and (min-width : 768px) 
+{
+	.square 
+	{
+	  background: #663399;
+	  border: 1px solid #99ff33;
+	  float: left;
+	  color: #fff;
+	  font-size: 12px;
+	  font-weight: bold;
+	  line-height: 34px;
+	  height: 75px;
+	  margin-right: -1px;
+	  margin-top: -1px;
+	  padding: 0;
+	  text-align: center;
+	  width: 75px;
+	}
+	.game 
+	{
+		margin-left:;
+		margin-top:10%;
+		
+	}
+	.game-board
+	{
+		display: flex;
+		flex-direction: row;
+	}
+	.game-info 
+	{
+	  margin-left: 10px;
+	}
 }
 
-.game-info {
-  margin-left: 20px;
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) 
+{
+	.square {
+	  background: #663399;
+	  border: 1px solid #99ff33;
+	  float: left;
+	  color: #fff;
+	  font-size: 24px;
+	  font-weight: bold;
+	  line-height: 34px;
+	  height: 150px;
+	  margin-right: -1px;
+	  margin-top: -1px;
+	  padding: 0;
+	  text-align: center;
+	  width: 150px;
+	}
+	.game {
+		margin-left:35%;
+		margin-top:10%;
+	}
+	.game-board
+	{
+		display: flex;
+		flex-direction: row;
+	}
+	.game-info {
+	  margin-left: 20px;
+	}
+
 }
