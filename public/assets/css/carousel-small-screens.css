@@ -1,0 +1,66 @@
+@media screen and (max-width:1023px)
+{
+		.carousel
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.carousel-activator:nth-of-type(#{$i}):checked
+		~ .carousel-controls:nth-of-type(#{$i})
+		{
+			display: none;
+		}
+		~ .carousel-screen
+		.carousel-track
+		{
+			transform: none;
+		}
+
+	.carousel-screen
+	{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.carousel-track
+	{
+		overflow-x: auto;
+		width: auto;
+		padding-left: 48px;
+		padding-right: 48px;
+	}
+	.carousel-item
+	{
+		display: inline-flex;;
+		padding-left: 16px;
+		padding-right: 16px;
+		vertical-align: top;
+		white-space: normal;
+	}
+
+	/*medium screens can have 3 items per slide*/
+	@for $i from 1 through 3
+	{
+		.carousel-item--tablet-in-#{$i}
+		{
+			width: #{90% / $i};
+		}
+	}
+}
+
+@media screen and (max-width:650px)
+{
+	.carousel-track
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	/*small screens can have 3 items per slide*/
+	@for $i from 1 through 3
+	{
+		.carousel-item--mobile-in-#{$i}
+		{
+			width: #{90% / $i};
+		}
+	}
+} 
