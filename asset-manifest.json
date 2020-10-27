@@ -1,25 +1,35 @@
 {
   "files": {
-    "main.css": "/gane/static/css/main.a5046afd.chunk.css",
-    "main.js": "/gane/static/js/main.976586de.chunk.js",
-    "main.js.map": "/gane/static/js/main.976586de.chunk.js.map",
-    "runtime-main.js": "/gane/static/js/runtime-main.125a589c.js",
-    "runtime-main.js.map": "/gane/static/js/runtime-main.125a589c.js.map",
-    "static/css/2.11829350.chunk.css": "/gane/static/css/2.11829350.chunk.css",
-    "static/js/2.4f2417f3.chunk.js": "/gane/static/js/2.4f2417f3.chunk.js",
-    "static/js/2.4f2417f3.chunk.js.map": "/gane/static/js/2.4f2417f3.chunk.js.map",
-    "index.html": "/gane/index.html",
-    "precache-manifest.37f6414fb6052fc96b3bb7995c5f736f.js": "/gane/precache-manifest.37f6414fb6052fc96b3bb7995c5f736f.js",
-    "service-worker.js": "/gane/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/gane/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a5046afd.chunk.css.map": "/gane/static/css/main.a5046afd.chunk.css.map",
-    "static/js/2.4f2417f3.chunk.js.LICENSE.txt": "/gane/static/js/2.4f2417f3.chunk.js.LICENSE.txt"
+    "main.css": "/idagala/static/css/main.935289f6.chunk.css",
+    "main.js": "/idagala/static/js/main.791d4311.chunk.js",
+    "main.js.map": "/idagala/static/js/main.791d4311.chunk.js.map",
+    "runtime-main.js": "/idagala/static/js/runtime-main.4cb86169.js",
+    "runtime-main.js.map": "/idagala/static/js/runtime-main.4cb86169.js.map",
+    "static/css/2.11829350.chunk.css": "/idagala/static/css/2.11829350.chunk.css",
+    "static/js/2.2cb35aa1.chunk.js": "/idagala/static/js/2.2cb35aa1.chunk.js",
+    "static/js/2.2cb35aa1.chunk.js.map": "/idagala/static/js/2.2cb35aa1.chunk.js.map",
+    "index.html": "/idagala/index.html",
+    "precache-manifest.25494c91867391c23e4da52fccfe5f7b.js": "/idagala/precache-manifest.25494c91867391c23e4da52fccfe5f7b.js",
+    "service-worker.js": "/idagala/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/idagala/static/css/2.11829350.chunk.css.map",
+    "static/css/main.935289f6.chunk.css.map": "/idagala/static/css/main.935289f6.chunk.css.map",
+    "static/js/2.2cb35aa1.chunk.js.LICENSE.txt": "/idagala/static/js/2.2cb35aa1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/idagala/static/media/dna-1811955_640.7ebb1a11.jpg",
+    "static/media/main.css": "/idagala/static/media/Oswald-Regular.68a85f5c.ttf",
+    "static/media/font-awesome.css": "/idagala/static/media/fontawesome-webfontd41d.674f50d2.eot",
+    "static/media/bootstrap.css": "/idagala/static/media/glyphicons-halflings-regulard41d.f4769f9b.eot",
+    "static/media/health-2082630_640.jpg": "/idagala/static/media/health-2082630_640.89453703.jpg",
+    "static/media/pills-384846_640.jpg": "/idagala/static/media/pills-384846_640.9cd20fd2.jpg",
+    "static/media/pulse-trace-163708_640.jpg": "/idagala/static/media/pulse-trace-163708_640.aeb21cb4.jpg",
+    "static/media/stethoscope-2617701_640.jpg": "/idagala/static/media/stethoscope-2617701_640.7a90501b.jpg",
+    "static/media/syringe-1884784_640.jpg": "/idagala/static/media/syringe-1884784_640.b3392142.jpg",
+    "static/media/wallet-2292428_640.jpg": "/idagala/static/media/wallet-2292428_640.e2400a16.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.125a589c.js",
+    "static/js/runtime-main.4cb86169.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.4f2417f3.chunk.js",
-    "static/css/main.a5046afd.chunk.css",
-    "static/js/main.976586de.chunk.js"
+    "static/js/2.2cb35aa1.chunk.js",
+    "static/css/main.935289f6.chunk.css",
+    "static/js/main.791d4311.chunk.js"
   ]
 }
