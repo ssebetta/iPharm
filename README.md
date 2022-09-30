@@ -1,1 +1,1 @@
-A Reactjs game
+A Pharmacy store made with Reactjs
